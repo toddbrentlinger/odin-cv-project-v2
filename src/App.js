@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Odin CV Project V2</h1>
+        <h1>Odin CV Project</h1>
       </header>
 
       <main>
